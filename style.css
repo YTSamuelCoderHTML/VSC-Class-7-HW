@@ -1,0 +1,15 @@
+.carousel-control.left,
+.carousel-control.right {
+    background-image: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 5%;
+}
+
+.carousel-control:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.carousel-indicators li {
+    background-color: black;
+}
